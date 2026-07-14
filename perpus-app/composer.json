@@ -2,6 +2,8 @@
   "name": "apsiteo/perpus-app",
   "description": "Aplikasi perpustakaan PHP",
   "require": {
-    "php": ">=8.1"
+    "php": ">=8.1",
+    "ext-pdo_mysql": "*",
+    "ext-mysqli": "*"
   }
 }
