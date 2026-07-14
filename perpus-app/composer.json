@@ -1,5 +1,5 @@
 {
-  "name": "apsiteo-perpus-app",
+  "name": "apsiteo/perpus-app",
   "description": "Aplikasi perpustakaan PHP",
   "require": {
     "php": ">=8.1"
